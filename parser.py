@@ -38,4 +38,4 @@ class Parser():
             raise ValueError(token)
 
     def get_parser(self):
-        return self.pg.build()
+        return self.pg.build()pol'l;'
